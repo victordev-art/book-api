@@ -1,0 +1,24 @@
+# Maven
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+.classpath
+.project
+.settings/
+
+# Spring Boot
+*.log
+logs/
+
+# Senhas e configs sensíveis
+application-local.properties
+application-prod.properties
